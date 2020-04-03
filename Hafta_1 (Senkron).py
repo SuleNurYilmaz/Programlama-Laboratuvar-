@@ -284,3 +284,8 @@ def my_median(my_list):
         return median
 
 print("Liste: ",my_list_2,"Ortanca: ",my_median(my_list_2))
+
+
+
+
+
