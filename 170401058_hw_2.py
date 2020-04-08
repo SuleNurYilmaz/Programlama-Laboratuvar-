@@ -1,4 +1,4 @@
-import sys,getopt,os
+import sys,os
 
 a=os.getcwd()
 
